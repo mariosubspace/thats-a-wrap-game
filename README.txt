@@ -8,3 +8,5 @@ To play:
 - Enter or ESC: Pause Menu  
 
 Bomb neighbor counts include the full diamond of 8 bubbles around a bubble.  
+
+Play Online: https://gigableh.itch.io/thats-a-wrap
